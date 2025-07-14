@@ -1,4 +1,4 @@
-###Cheat Sheet: Collaborative Writing on GitHub
+### Cheat Sheet: Collaborative Writing on GitHub
 
 **Fork**: A personal copy of a repository, saved under your own GitHub account. In typical collaborative writing projects, forking is usually *not* needed as collaborators can work directly within the shared repository (e.g., in their own branch). In this workshop, you are asked to fork the repository for technical reasons, so you can work on your own copy instead of editing the original workshop repository directly.
 
