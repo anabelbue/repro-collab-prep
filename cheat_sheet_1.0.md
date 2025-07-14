@@ -1,3 +1,5 @@
+### Cheat sheet collaborative writing on Github
+
 **Fork**: A personal copy of a repository, saved under your own GitHub account. In typical collaborative writing projects, forking is usually *not* needed as collaborators usually work directly within the project repository (e.g., in their own branch). In this workshop, you are asked to fork the repository for technical reasons, so you can work on your own copy instead of editing the original workshop repository directly.
 
 **Branch**: A parallel version of the project, created within the same repository. It allows collaborators to work on changes without affecting the main version of the project until their work is ready to be added. After finishing work in a branch, collaborators can open a pull request to suggest adding their changes to the main project. *Note*: Unlike forks, branches are always part of the shared repository and stay automatically up-to-date with the main version.
