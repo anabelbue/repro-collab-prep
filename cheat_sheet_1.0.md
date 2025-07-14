@@ -1,7 +1,6 @@
-**Issue**  
-A way to track tasks, ideas, or bugs within a **specific repository**. In collaborative writing, issues help structure work on the text (e.g., outlining sections), discuss revisions, or assign writing tasks.
+**Issue**: A way to track tasks, ideas, or bugs within a specific repository. In collaborative writing, issues help structure work on the text (e.g., outlining sections), discuss revisions, or assign writing tasks.
 
-### Practical tips
+##### Practical tips
 
 - **Create checklists**  
   Inside an issue or comment, type `- [ ]` followed by a space and your task. This creates a checkbox list to track progress. Example: 
