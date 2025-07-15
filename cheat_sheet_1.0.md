@@ -8,9 +8,9 @@
 
 **Issue**: A way to track tasks, ideas, or bugs within a specific repository. In collaborative writing, issues help structure work on the text (e.g., outlining sections), discuss revisions, or assign writing tasks.
 
-**Practical tips for working with issues**: 
+For example, you can: 
+- Create checklists by typing - [ ] followed by your task
+- Mention people with @username to notify them directly
+- Reference issues or PRs using #issue-number or #PR-number
 
-- *Create checklists*: Type `- [ ]` followed by a space and your task to track progress 
-- *Mention people*: Type `@username` to notify someone directly
-- *Reference issues or PRs*: Type `#issue-number` or `#PR-number` to link back to an existing issue or pull request
 
